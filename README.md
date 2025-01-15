@@ -1,5 +1,5 @@
 # Group Project Three: Everybody Eats!
-A collaborative project using the MERN stack and the FatSecret API to create a website where users can create a secure account and login to search for and build meal and recipe plans, ready to use in the kitchen! This work was completed by Lothy Gresser, Jonathan Grommesh, Tanner Johnson, Nash Peterson, &amp; Tim Scallon.
+A containerizable version of a collaborative project to create a website using the MERN stack and the FatSecret API, where users can create a secure account and login to search for and build meal and recipe plans, ready to use in the kitchen! This work was completed by Lothy Gresser, Jonathan Grommesh, Tanner Johnson, Nash Peterson, &amp; Tim Scallon (Tim did this containierization too).
 
   ## Table of Contents
   - [Description](#description)
@@ -29,7 +29,7 @@ A collaborative project using the MERN stack and the FatSecret API to create a w
 
 
   ## Installation
-  To install this project after copying down the repo, you will first need to run `npm install` (-y for default settings) on the project root, which should grant you access to the necessary libraries listed in the package.json files for the root, client, and server.
+  To install this project after copying down the repo, you will first need to run `npm install` (-y for default settings) on the project root, which should grant you access to the necessary libraries listed in the package.json files for the root, client, and server. Instructions forthcoming on containerizing it yourself!
 
   ## Usage
   1. To use this project, you'll want to be familiar with MongoDB; Technically GraphQL is enabled, but we did not use it much in our design and implementation.
